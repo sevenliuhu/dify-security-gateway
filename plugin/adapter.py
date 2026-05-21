@@ -1,3 +1,4 @@
+# Copyright (c) 2026 HOMO AI. Proprietary. License required. Contact: 16208204@qq.com
 """
 HOMO Dify Security Gateway — Dify Plugin 适配器
 部署: 复制到 dify/api/extensions/homo_security_gateway.py
